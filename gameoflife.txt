@@ -1,0 +1,15 @@
+Create a strategic design for a modified version of the Game Of Life:
+<http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
+At the start of the program, the user will provide the following details:
+- size of the square grid
+- the location of each live cell
+
+The program will display all the cells, live and dead. It will show animation of the birth and death of cells, until the user quits the program.
+
+Assume the grid is fixed size and the program has to show only the state of cells within the given bounds.
+
+Implement the program mentioned above. 
+
+
+
